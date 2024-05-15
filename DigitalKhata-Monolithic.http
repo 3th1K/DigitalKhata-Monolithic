@@ -1,0 +1,6 @@
+@DigitalKhata_Monolithic_HostAddress = http://localhost:5064
+
+GET {{DigitalKhata_Monolithic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
